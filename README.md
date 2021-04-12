@@ -14,7 +14,7 @@ O file database.sql segue anexado ao projeto e o usuário deverá antes de impor
 alterar as url's. 
 
 # FONTE 
-Este desenvolvimento veio de fonte de estudo junto à https://escolaninjawp.com.br/ , no qual, sou muito agradecido pelo aprendizado obtido. 
+Este desenvolvimento veio de fonte de estudo junto à https://escolaninjawp.com.br/ , no qual, sou muito grato pelo aprendizado obtido. 
 
 
 
