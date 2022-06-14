@@ -1,20 +1,20 @@
-# CONTAS A PAGAR 
-Simples sistema  de contas a pagar desenvolvido no Wordpress
+# WP PAY SYSTEM 
 
-# WP VERSION
-O tema modificado funciona bem no Wordpress versão 5.1. 
-Tema usado: Bootstrap Starter.
+![Badge Stand by](http://img.shields.io/static/v1?label=STATUS&message=Stand%20by&color=ORANGE&style=for-the-badge)
 
-# PLUGINS NECESSÁRIOS 
--> Advanced Custom Fields 
--> Custom Post Type 
+This is a project to study the construction of a payment system. For the development, I created a theme to serve this purpose, programming the templates, post types, view and all the necessary resources for its operation.
+The next step is to improve this system for specific professional use.
 
-# DATABASE 
-O file database.sql segue anexado ao projeto e o usuário deverá antes de importar pelo "phpmyadmin", 
-alterar as url's. 
+### <b>Technologies</b>
 
-# FONTE 
-Este desenvolvimento veio de fonte de estudo junto à https://escolaninjawp.com.br/ , no qual, sou muito grato pelo aprendizado obtido. 
+- Wordpress
+- PHP
+- MySQL
+- HTML 
+- CSS 
+
+
+
 
 
 
