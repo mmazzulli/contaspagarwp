@@ -1,4 +1,4 @@
-# WP PAY SYSTEM 
+# WP PAYABLE SYSTEM
 
 ![Badge Stand by](http://img.shields.io/static/v1?label=STATUS&message=Stand%20by&color=YELLOW&style=for-the-badge)
 
